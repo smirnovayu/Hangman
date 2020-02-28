@@ -1,0 +1,13 @@
+name: hangman_en
+title: hangman_en
+username:
+account: smirnovayu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1880472
+bundleId: 2838204
+url: https://smirnovayu.shinyapps.io/hangman_en/
+when: 1582920836.90519
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: old/app1.R|old/app2.R|old/app3.R
